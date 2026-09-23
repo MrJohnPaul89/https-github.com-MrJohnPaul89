@@ -98,20 +98,6 @@ Esta seção será atualizada conforme novos projetos forem adicionados ao GitHu
 
 <br>
 
-## Activity Graph
-
-<div align="center">
-
-<img
-  width="100%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=MrJohnPaul89&amp;bg_color=0D0D0D&amp;color=FFFFFF&amp;line=E10600&amp;point=FFFFFF&amp;area=true&amp;area_color=E10600&amp;hide_border=true"
-  alt="GitHub Activity Graph"
-/>
-
-</div>
-
-<br>
-
 ---
 
 <br>
